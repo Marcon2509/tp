@@ -230,9 +230,6 @@ categorized accordingly to the entities. Specifically: Bidder, Seller, Bid, Prop
         - Cons: Will require heavy edits to the existing code base.
  
 
-This section describes some noteworthy details on how certain features are implemented. The details of the features are
-categorized accordingly to the entities. Specifically: Bidder, Seller, Bid, Property and Meeting.
-
 ### 2. Bid
 
  ### **Implementation**
