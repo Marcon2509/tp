@@ -77,6 +77,8 @@ ___
   * Highlights: It will auto sort when a bid is added or edited.
   * Pull request: [#200](https://github.com/AY2021S1-CS2103-W14-1/tp/pull/200)
 
+<div style="page-break-after: always;"></div>
+
 * **Code contributed**: [RepoSense link](https://nus-cs2103-ay2021s1.github.io/tp-dashboard/#breakdown=true&search=marcon&sort=groupTitle&sortWithin=title&since=2020-08-14&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other&tabOpen=true&tabType=authorship&tabAuthor=Marcon2509&tabRepo=AY2021S1-CS2103-W14-1%2Ftp%5Bmaster%5D&authorshipIsMergeGroup=false&authorshipFileTypes=docs~functional-code~test-code~other)
 
 * **Project management**:
